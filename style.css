@@ -158,6 +158,13 @@ section {
   min-height: fit-content;
 }
 
+.coming-soon {
+  font-size: 2rem;
+  text-align: center;
+  color: rgb(85, 85, 85);
+  margin-top: 2rem;
+  font-weight: 600;
+}
 .section-container {
   display: flex;
 }
@@ -357,7 +364,7 @@ article .icon {
 
 /* PROJECTS SECTION */
 
-#projects {
+/* #projects {
   position: relative;
 }
 
@@ -380,7 +387,7 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
-}
+} */
 
 /* CONTACT */
 
